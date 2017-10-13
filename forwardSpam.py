@@ -34,5 +34,6 @@ def spamEveryMinute():
         print "Email sent to: " + ', '.join(recipients)
         s.quit()
         time.sleep(60) # change rate of fire here
-
+def FindATarget
+    
 spamEveryMinute()
