@@ -38,5 +38,5 @@ def spamEveryMinute():
 spamEveryMinute()
 
 FindATargetOnGSuiteOpen = open ('gsuitetargets.txt', 'rb')
-FindARandomTargetOnGSuitePrepare= email_list = ['jansbrid@d93mail.com', 'minzbrad@d93mail.com'
+FindARandomTargetOnGSuitePrepare= email_list = ['jansbrid@d93mail.com', 'minzbrad@d93mail.com']
 
