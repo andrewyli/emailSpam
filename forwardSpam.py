@@ -34,5 +34,9 @@ def spamEveryMinute():
         print "Email sent to: " + ', '.join(recipients)
         s.quit()
         time.sleep(60) # change rate of fire here
-
+    
 spamEveryMinute()
+
+FindATargetOnGSuiteOpen = open ('gsuitetargets.txt', 'rb')
+FindARandomTargetOnGSuitePrepare= email_list = ['jansbrid@d93mail.com', 'minzbrad@d93mail.com']
+
